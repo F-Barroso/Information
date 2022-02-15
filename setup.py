@@ -11,5 +11,5 @@ setup(name='diff_information',
       install_requires=[
         'scipy>=1.7.3',
         'numpy>=1.21.2'
-        ]
-        )
+        ],
+     )
