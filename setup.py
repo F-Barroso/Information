@@ -7,7 +7,6 @@ setup(name='diff_information',
       author='Filipe Barroso',
       author_email='filipe.barroso@ua.pt',
       license='MIT',
-      packages=find_packages(),
       install_requires=[
         'scipy',
         'numpy'
