@@ -9,7 +9,7 @@ setup(name='diff_information',
       license='MIT',
       packages=find_packages(),
       install_requires=[
-        'scipy',
-        'numpy'
+        'scipy>=1.7.3',
+        'numpy>=1.21.2'
         ]
         )
