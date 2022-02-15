@@ -1,3 +1,7 @@
+import numpy as np
+rd = np.random
+from scipy.stats import iqr
+
 def diff_entropy(data):
     '''Computes differential entropy from one dimensional data array'''
     
